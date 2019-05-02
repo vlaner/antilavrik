@@ -11,3 +11,12 @@
 
 - 1) Launch script
 - 2) $PROFIT$
+
+# Credits: 
+
+ ## AloneStranger (writing code)
+ ## Vlaner (function idea)
+ ## Ivanna Volkova (programming idea)
+ 
+# © the AntiLavrikCodingTeam
+# UNMAINTAINED.
